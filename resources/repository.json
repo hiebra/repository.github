@@ -7,6 +7,10 @@
     }
   },
   {
+    "id": "plugin.executable.softalks.com",
+    "username": "hiebra"
+  },
+  {
     "id": "script.module.debuggable.softalks.com",
     "username": "hiebra",
     "repository": "debuggable.py"
